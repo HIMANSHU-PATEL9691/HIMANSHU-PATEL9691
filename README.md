@@ -23,10 +23,12 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIMANSHU-PATEL9691&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHU-PATEL9691&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHU-PATEL9691&layout=compact&theme=radical)
+
 
 ---
 
