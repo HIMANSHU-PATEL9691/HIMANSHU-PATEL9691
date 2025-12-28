@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Himanshu Patel
 
-<!--
-**HIMANSHU-PATEL9691/HIMANSHU-PATEL9691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack & React Native Developer  
+🎓 Software Engineering Student (8th Sem) – SAGE University, Indore  
+💼 Full Stack Developer at Digital Fly High Solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Frontend: React.js, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Mobile: React Native
+- Tools: Git, GitHub, Postman, Firebase
+
+---
+
+### 📌 Projects
+- 🛒 **ExpireEx** – Discounted products before expiry  
+- 📱 **React Native Apps**
+- 🌐 **Portfolio Website**
+- 🏪 **Electronics Service Website**
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIMANSHU-PATEL9691&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHU-PATEL9691&layout=compact&theme=radical)
+
+---
+
+📫 **Connect with me**
+- LinkedIn: https://www.linkedin.com/in/your-link
+- Portfolio: https://your-portfolio-link
