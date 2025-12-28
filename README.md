@@ -55,34 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HIMANSHU-PATEL9691&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="350" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HIMANSHU-PATEL9691&layout=compact&theme=github_dark" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HIMANSHU-PATEL9691&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HIMANSHU-PATEL9691&theme=onedark&row=1&margin-w=15" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/himanshu-patel-a43200329/
