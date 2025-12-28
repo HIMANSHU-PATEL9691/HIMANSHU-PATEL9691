@@ -31,5 +31,5 @@
 ---
 
 📫 **Connect with me**
-- LinkedIn: https://www.linkedin.com/in/your-link
+- LinkedIn: (https://www.linkedin.com/in/himanshu-patel-a43200329/)
 - Portfolio: https://your-portfolio-link
