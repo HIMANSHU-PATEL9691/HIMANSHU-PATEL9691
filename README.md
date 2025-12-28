@@ -22,13 +22,10 @@
 - 🏪 **Electronics Service Website**
 
 ---
-
-## 📊 GitHub Stats
-
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHU-PATEL9691&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHU-PATEL9691&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HIMANSHU-PATEL9691&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHU-PATEL9691&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
