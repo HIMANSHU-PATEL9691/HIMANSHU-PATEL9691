@@ -42,16 +42,20 @@
 ## 📌 Featured Projects
 
 - 🛒 **ExpireEx** – Discounted products before expiry  
-  👉 https://github.com/HIMANSHU-PATEL9691
+  👉A smart e-commerce platform designed to reduce product wastage by selling items at discounted prices based on their expiry date.
+Key Highlights: Dynamic pricing logic, product categorization (Food, Cosmetics, Medicine), cart functionality, and modern responsive UI built with the MERN stack.
 
 - 📱 **React Native Applications**  
-  👉 Multiple mobile apps using React Native
+  👉 Developed multiple cross-platform mobile applications using React Native with a focus on performance, clean UI, and real-world usability.
+Key Highlights: API integration, reusable components, smooth navigation, and optimized mobile experience for Android devices.
 
 - 🌐 **Personal Portfolio Website**  
-  👉 https://your-portfolio-link
+  👉 A fully responsive and professional portfolio website showcasing my skills, projects, and experience as a Full Stack Developer.
+Key Highlights: Modern UI/UX design, smooth animations, project showcases, and contact functionality to connect with recruiters and clients.
 
 - 🏪 **Electronics Service Website**  
-  👉 Service booking & management platform
+  👉A service management platform for electronics repair and maintenance, allowing customers to book services easily.
+Key Highlights: Service request forms, category-based services (TV, AC, Refrigerator, etc.), WhatsApp integration, and user-friendly design.
 
 ---
 
@@ -59,7 +63,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/himanshu-patel-a43200329/
 - 🌐 Portfolio: https://your-portfolio-link
-- 📧 Email: your-email@gmail.com
+- 📧 Email: himanshupatel9691@gmail.com
 
 ---
 
