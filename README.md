@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/himanshu-patel-a43200329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link" target="_blank">
+  <a href="https://portfolio-web-mu-weld.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
