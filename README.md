@@ -5,10 +5,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Patel</h1>
 <h3 align="center">MERN Stack & React Native Developer</h3>
 
-<p align="center">
-  🎓 Software Engineering Student (8th Semester) – SAGE University, Indore <br/>
-  💼 Full Stack Developer at <b>Digital Fly High Solutions</b>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu-patel-a43200329/" target="_blank">
