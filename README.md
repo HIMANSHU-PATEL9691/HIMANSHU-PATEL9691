@@ -38,24 +38,71 @@
 </p>
 
 ---
+## Projects
 
-## 📌 Featured Projects
+### Standard Petro – Corporate Business Website  
+**Live Demo:** https://standardpetro.in/  
+**Tech Stack:** React, JavaScript, HTML, CSS  
 
-- 🛒 **ExpireEx** – Discounted products before expiry  
-  👉A smart e-commerce platform designed to reduce product wastage by selling items at discounted prices based on their expiry date.
-Key Highlights: Dynamic pricing logic, product categorization (Food, Cosmetics, Medicine), cart functionality, and modern responsive UI built with the MERN stack.
+A professional corporate website developed for a petroleum services company, focused on brand presence and service clarity.  
+- Responsive and modern UI optimized for all devices  
+- Structured service sections for clear business communication  
+- Performance-focused layout with clean navigation  
 
-- 📱 **React Native Applications**  
-  👉 Developed multiple cross-platform mobile applications using React Native with a focus on performance, clean UI, and real-world usability.
-Key Highlights: API integration, reusable components, smooth navigation, and optimized mobile experience for Android devices.
+---
 
-- 🌐 **Personal Portfolio Website**  
-  👉 A fully responsive and professional portfolio website showcasing my skills, projects, and experience as a Full Stack Developer.
-Key Highlights: Modern UI/UX design, smooth animations, project showcases, and contact functionality to connect with recruiters and clients.
+### Personal Portfolio Website  
+**Live Demo:** https://himanshupatel-portfolio.vercel.app/  
+**Tech Stack:** React, Tailwind CSS, JavaScript  
 
-- 🏪 **Electronics Service Website**  
-  👉A service management platform for electronics repair and maintenance, allowing customers to book services easily.
-Key Highlights: Service request forms, category-based services (TV, AC, Refrigerator, etc.), WhatsApp integration, and user-friendly design.
+A modern developer portfolio showcasing projects, skills, and professional background.  
+- Clean, recruiter-friendly design with smooth UI interactions  
+- Fully responsive layout with optimized performance  
+- Clear project presentation and contact accessibility  
+
+---
+
+### Car Shop Website  
+**Live Demo:** https://carshop-swart.vercel.app/  
+**Tech Stack:** React, JavaScript, CSS  
+
+A web platform designed to showcase car listings with a clean and user-focused interface.  
+- Dynamic car listing layout with modern card design  
+- Responsive UI for seamless browsing across devices  
+- Scalable structure suitable for future feature expansion  
+
+---
+
+### Patel Electronics Shop  
+**Live Demo:** https://patel-electronics-shop.vercel.app/  
+**Tech Stack:** React, JavaScript, CSS  
+
+An electronics store website built to display products in a clean and organized manner.  
+- User-friendly product listing interface  
+- Responsive design for mobile and desktop users  
+- Optimized layout for fast loading and usability  
+
+---
+
+### The Petro Shop – Business Website  
+**Live Demo:** https://thepetroshop.com/  
+**Tech Stack:** HTML, CSS, JavaScript  
+
+A business-focused website developed for a petro and fuel services brand.  
+- Professional layout highlighting services and offerings  
+- SEO-friendly structure with optimized content sections  
+- Mobile-first, responsive design approach  
+
+---
+
+### School Website  
+**Live Demo:** https://school-website-n7ec.vercel.app/  
+**Tech Stack:** React, JavaScript, CSS  
+
+An informational school website designed to present academic and institutional details.  
+- Clear sections for admissions, academics, and events  
+- Simple and accessible UI for all user groups  
+- Fully responsive and easy-to-navigate layout  
 
 ---
 
