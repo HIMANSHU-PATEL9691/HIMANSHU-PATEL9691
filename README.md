@@ -9,10 +9,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu-patel-a43200329/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://portfolio-web-mu-weld.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
